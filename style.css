@@ -36,3 +36,18 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+.thumbnail-row {
+    display: flex;
+    justify-content: space-around; /* Spread thumbnails evenly with space around */
+    align-items: center;
+    margin-top: 20px; /* Increase the margin for more space */
+  }
+
+  .thumbnail {
+    width: 160px; /* Adjust the width */
+
+  }
+
+  
+
